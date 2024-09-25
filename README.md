@@ -1,20 +1,28 @@
-# FarmProManager
-This is my study project created on C# and WinForms to master my OOP knowldge. This desktop application is created for comfortable accounting of your livestock. 
-It can create a list of animals, which would be saved in apps database. It provides usable tool for adding your animal and write down it`s name, kind, weight. App will give your living being it's own id.
-And after work you can save you file and send it to you manager or bookkeeper.
+# Falling-Blocks-game
+This is my study project created on C++ to master language knowledge. This is console game. 
+In this small project i was reinventing the bicycle using part of other tutorials on such like "Snake game" in console. In my head I had image of game-loop that was going until higher blocks reached it's "bottleneck". Scoring stacked blocks and little trick with array to rotate figure.
+Just enjoy ur time)
 
-### This app includes:
-- File system, save\load and creating a new database file;
-- Class hierarchy, which describes 3 animal classes;
-- Tool for visualizing your file content in table, with ability to sort and filter elements;
-- Tools for adding\deleting some element from database, changes saves instantly on changes;
-- Minimalistic graphical interface for desktop application;
+### Controls:
+- S - fall block faster;
+- A - move block on one cell left;
+- D - move block on one cell right;
+- R - rotate block;
+
+### This console-app includes:
+- Straightforward console ui;
+- Score record(reset on restart);
+- Screen refresh;
+- "Bottle" and "Blocks" renderer;
+- "EndGame" Screen;;
+- Game loop that ends on blocks reaching "bottle neck";
 
 ### Instalation:
  - Install gitBash on https://git-scm.com/downloads
  - run gitBash after installation
  - create folder on directory c:/
  - write comand: cd c:/yourfolder/
- - write command: git clone https://github.com/OldAchoK/FarmEdApp.git
+ - write command: git clone https://github.com/OldAchoK/Falling-Blocks-game.git
  - open c:/yourfolder/
  - open exe file
+ - or check code by urself in such IDE as Visual Studio(was built on 2022, wasn't tested on others)
