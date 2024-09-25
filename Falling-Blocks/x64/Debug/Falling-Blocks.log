@@ -1,0 +1,6 @@
+﻿  Falling-Blocks.cpp
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(8,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(8,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(590,23): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(543,10): warning C4101: 'start': unreferenced local variable
+  Falling-Blocks.vcxproj -> C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\x64\Debug\Falling-Blocks.exe

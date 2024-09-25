@@ -1,0 +1,10 @@
+﻿  Falling-Blocks.cpp
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(8,19): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(8,22): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(590,23): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\Falling-Blocks\Falling-Blocks.cpp(543,10): warning C4101: 'start': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 201 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Falling-Blocks.vcxproj -> C:\Users\Арбузик\Desktop\Projects\Chess\Falling-Blocks\x64\Release\Falling-Blocks.exe
